@@ -6,7 +6,7 @@ Sebuah aplikasi desktop yang dibangun menggunakan Java Swing untuk membantu peng
 
 | Welcome Screen | Tampilan Utama | Form Tambah Buku |
 | :---: | :---: | :---: |
-| ![Welcome Screen](ManajemenBukuPribadiVscode/screenshots/welcomeScreen.png) | ![Tampilan Utama](ManajemenBukuPribadiVscode/screenshots/tampilanAwal.png) | ![Form Tambah Buku](ManajemenBukuPribadiVscode/screenshots/formTambahBuku.png) | ![Tampilan Buku Setelah Ditambahkan](ManajemenBukuPribadiVscode/screenshots/bukuSetelahDitambahkan.png)
+| ![Welcome Screen](ManajemenBukuPribadiVscode/screenshot/welcomeScreen.png) | ![Tampilan Utama](ManajemenBukuPribadiVscode/screenshot/tampilanAwal.png) | ![Form Tambah Buku](ManajemenBukuPribadiVscode/screenshot/formTambahBuku.png) | ![Tampilan Buku Setelah Ditambahkan](ManajemenBukuPribadiVscode/screenshot/bukuSetelahDitambahkan.png)
 
 ## Fitur Utama (Features)
 - **CRUD Penuh:** Tambah, Edit, dan Hapus data buku dari koleksi.
